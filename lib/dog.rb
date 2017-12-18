@@ -1,5 +1,5 @@
 class Dog
-  def name=(dog_name)
+  def name=("Lassie")
     this_dogs_name = "Lassie"
   end
 
